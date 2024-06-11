@@ -348,4 +348,4 @@ export const food_list = [
         category: "Noodles"
     }
 ]
-console.log(food_list[0]._id);
+
